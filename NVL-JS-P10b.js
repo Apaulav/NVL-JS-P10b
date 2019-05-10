@@ -10,5 +10,3 @@ for (var i =0; i < 50; i++){
         impar.push(azar);
         }  
  }
-document.write("Pares ",par, "<BR>");
-document.write("Impares ",impar, " ");
